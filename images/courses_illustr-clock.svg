@@ -1,0 +1,27 @@
+<svg width="213" height="233" viewBox="0 0 213 233" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2745_3674)">
+<path d="M141.837 256.105C192.769 256.105 234.042 214.775 234.042 163.813C234.042 112.852 192.769 71.5223 141.837 71.5223C90.904 71.5223 49.6317 112.852 49.6317 163.813C49.6317 214.775 90.904 256.105 141.837 256.105Z" fill="#F8EFE5" stroke="#3C8AAC" stroke-width="18.8772"/>
+<path d="M243.983 162.741C243.983 145.173 239.26 127.918 230.292 112.716C221.324 97.5142 208.43 84.9052 192.912 76.1595C177.395 67.4139 159.802 62.8403 141.91 62.899C124.017 62.9577 106.841 67.5299 91.3828 76.3772" stroke="#1B1B1B" stroke-width="1.4"/>
+<path d="M147.555 248.945C162.245 247.713 176.344 242.561 188.429 234.01C200.514 225.46 210.157 213.815 216.386 200.251C222.615 186.688 225.211 171.685 223.912 156.757C222.613 141.829 217.59 127.815 209.112 115.535" stroke="#1B1B1B" stroke-width="1.4"/>
+<path d="M200.014 104.223C189.852 94.0513 177.077 86.857 162.979 83.3654C148.881 79.8739 133.96 80.209 119.722 84.3344C105.483 88.4598 92.4307 96.2297 81.8801 106.859C51.9936 141.269 52.4934 192.687 77.4266 214.154" stroke="#1B1B1B" stroke-width="1.4"/>
+<path d="M70.0121 92.7846C57.5216 105.288 48.5701 120.891 44.0609 138.02C39.5518 155.148 39.6446 173.194 44.3292 190.337C49.0138 207.481 58.1246 223.114 70.7417 235.661C83.3588 248.208 99.0362 257.224 116.192 261.799" stroke="#1B1B1B" stroke-width="1.4"/>
+<line x1="141.262" y1="96.3875" x2="141.262" y2="120.429" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.224" y2="-0.7" transform="matrix(-0.532819 0.84623 -0.845729 -0.533612 173.602 109.676)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2182" y2="-0.7" transform="matrix(-0.86862 0.495479 -0.494701 -0.869063 197.602 133.101)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2181" y2="-0.7" transform="matrix(-0.873837 -0.486218 0.485446 -0.874267 197.797 198.496)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2241" y2="-0.7" transform="matrix(-0.524985 -0.851111 0.850623 -0.525777 174.781 222.867)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2242" y2="-0.7" transform="matrix(0.518606 -0.855014 0.854535 0.519395 109.078 222.734)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2183" y2="-0.7" transform="matrix(0.865051 -0.501683 0.500902 0.865504 85.5547 198.907)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2183" y2="-0.7" transform="matrix(0.865483 0.500938 -0.500158 0.865934 84.6484 133.852)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="0.7" y1="-0.7" x2="11.2235" y2="-0.7" transform="matrix(0.572953 0.819588 -0.819028 0.573754 107.531 109.676)" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72.6453" y1="166.223" x2="95.3897" y2="166.223" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="211.027" y1="166.352" x2="188.282" y2="166.352" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="141.136" y1="234.917" x2="141.136" y2="212.148" stroke="#1B1B1B" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="142" y1="144" x2="142" y2="173" stroke="#9B5C8F" stroke-width="6" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_2745_3674">
+<rect width="213" height="233" fill="white"/>
+</clipPath>
+</defs>
+</svg>
